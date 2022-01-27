@@ -1,0 +1,28 @@
+header {
+  background-color: #000;
+}
+
+h1 {
+  color: #fff;
+}
+
+body {
+  font-size: 30px;
+  color: aquamarine;
+}
+
+body div {
+  font-size: 10px;
+}
+
+.block {
+  color: peru;
+}
+
+.block__item {
+  background-color: #f50000;
+}
+
+.red {
+  color: red;
+}

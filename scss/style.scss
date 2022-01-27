@@ -1,0 +1,18 @@
+@import "_header";
+body {
+	font-size: 20px;
+	div {
+			font-size: 10px;
+	}
+}
+.block{
+	color: peru;
+	&__item{
+		background-color: rgb(245, 0, 0);
+	}
+}
+.red {
+	color: red;
+}
+
+
